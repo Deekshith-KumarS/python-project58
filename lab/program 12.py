@@ -1,0 +1,5 @@
+tup=(1,2,3,4,4,3,2,5,5,7,8,8,9)
+count=tup.count(4)
+print(f"The count of 4 is {count}")
+count=tup.count(5)
+print(f"The count of 5 is {count}")
